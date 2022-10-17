@@ -10,5 +10,4 @@ function findItemMis( date : number[] ): number[] {
     return arr;
 }
 
-let a = new findItemMis([2,3,4,5]);
-console.log(a)
+console.log(findItemMis([1,2,3]))
